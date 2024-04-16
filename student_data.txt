@@ -1,0 +1,10 @@
+Name:Benjamin		ID:E12345201		Grade.Chinese:104		Grade.Math:110		Grade.English:124
+Name:Olivia		ID:E12345200		Grade.Chinese:108		Grade.Math:114		Grade.English:123
+Name:Isabella		ID:E12345199		Grade.Chinese:112		Grade.Math:117		Grade.English:122
+Name:James		ID:E12345198		Grade.Chinese:116		Grade.Math:120		Grade.English:119
+Name:Sophia		ID:E12345197		Grade.Chinese:120		Grade.Math:123		Grade.English:125
+Name:William		ID:E12345196		Grade.Chinese:124		Grade.Math:127		Grade.English:121
+Name:Ava		ID:E12345195		Grade.Chinese:126		Grade.Math:130		Grade.English:118
+Name:Oliver		ID:E12345194		Grade.Chinese:128		Grade.Math:133		Grade.English:116
+Name:Emma		ID:E12345193		Grade.Chinese:132		Grade.Math:137		Grade.English:120
+Name:John		ID:E12345192		Grade.Chinese:142		Grade.Math:134		Grade.English:115
